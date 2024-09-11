@@ -1,0 +1,21 @@
+{
+  "name": "node-fetch-h2",
+  "version": "0.0.1",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node --test",
+    "build": "tsc"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "debug": "^4.3.7"
+  },
+  "devDependencies": {
+    "@types/debug": "^4.1.12",
+    "@types/node": "^22.5.4",
+    "typescript": "^5.6.2"
+  }
+}
